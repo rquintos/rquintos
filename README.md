@@ -21,6 +21,6 @@ current_mission:
 ---
 
 [![Ron Quintos](https://img.shields.io/badge/Ron_Quintos-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rquintos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rquintos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronquintos)
 
 📍 San Diego, CA
