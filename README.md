@@ -4,11 +4,11 @@
 from testing and development through configuration management, CI/CD, and cloud infrastructure.
 Wherever you go, there you are — and apparently I ended up in the clouds. ☁️
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
-[![Automation & IaC](https://skillicons.dev/icons?i=ansible,terraform,jenkins,githubactions,bash,powershell)](https://skillicons.dev)
-[![Version Control & Dev](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,vim,docker)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=go,python,perl,html)](https://skillicons.dev)
-[![OS & Platform](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows)](https://skillicons.dev)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp)
+![Automation & IaC](https://skillicons.dev/icons?i=ansible,terraform,jenkins,githubactions,bash,powershell)
+![Version Control & Dev](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,vim,docker)
+![Languages](https://skillicons.dev/icons?i=go,python,perl,html)
+![OS & Platform](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows)
 
 ---
 
